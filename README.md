@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhrumil (Dave)</h1>
 <h3 align="center">Your regular boring undergrad student at TrentU-Peterborough.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l0wecase-guy" alt="l0wecase-guy" /></a> </p>
-
 - 🌱 Student at **Trent University.**
 
 - 💬 Ask me about **anything?**

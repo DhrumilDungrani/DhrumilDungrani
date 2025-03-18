@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhrumil (Dave)</h1>
-<h3 align="center">Your regular boring undergrad student at TrentU-Peterborough.</h3>
-
-- 🌱 Student at **Trent University.**
+<h3 align="center">Undergrad student at TrentU.</h3>
 
 - 💬 Ask me about **anything?**
 

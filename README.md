@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhrumil (Dave)</h1>
-<h3 align="center">Undergrad student at TrentU.</h3>
 
-- 💬 Ask me about **anything?**
-
-- 📫 How to reach me **dungranidhrumil@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
